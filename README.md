@@ -1,6 +1,6 @@
 ## Hey! Eu sou o Micael
 
-- 💻 Hoje trabalho com front-end
+- 💻 Sou um Desenvolvedor front-end
 - 🌱 Estudando React
 
 <div align="center">
