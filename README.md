@@ -1,7 +1,7 @@
-## Hey! Eu sou o Micael
+## Hey! I'm Micael
 
-- 💻 Desenvolvedor front-end
-- 🌱 Estudando React
+- 💻 Front-end Developer
+- 🌱 Studying React
 
 <div align="center">
   <a href="https://github.com/MicaelFellipe">
